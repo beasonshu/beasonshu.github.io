@@ -22,7 +22,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman_v2", "staticman", "utterances", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman_v2", "staticman", "utterances", "custom"
   disqus:
     shortname            :
   discourse:
@@ -31,7 +31,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :"dark"# "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
 staticman:
