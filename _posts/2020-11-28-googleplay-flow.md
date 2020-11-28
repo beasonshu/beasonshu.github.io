@@ -3,3 +3,6 @@
 ![](https://raw.githubusercontent.com/beasonshu/beasonshu.github.io/master/_posts/images/image_1.png)
 
 2.选择账号登录
+
+![](https://raw.githubusercontent.com/beasonshu/beasonshu.github.io/master/_posts/images/image_2.png)
+
